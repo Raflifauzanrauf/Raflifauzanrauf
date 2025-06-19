@@ -5,7 +5,7 @@ Hi, I'm Rafli Fauzan Rauf 👋
 - 🚀 Always eager to learn and explore new tools, frameworks, and development trends
 
 
-### 📱 Mobile Development Stack
+### 📱 Mobile Development
 
 <!-- Frameworks -->
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
