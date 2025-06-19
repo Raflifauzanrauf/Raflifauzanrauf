@@ -1,13 +1,11 @@
 
-const aboutMe = {
-  university: "Telkom University",
-  role: "Software Engineering Student",
-  focus: ["React Native", "Flutter"],
-  passion: "Building delightful mobile experiences",
-  mindset: "Always exploring, always learning 🚀",
-  currentlyLearning: "Clean architecture & scalable UI design",
-  goal: "Turning ideas into elegant, impactful apps ✨"
-};
+## 👋 Hello World! I'm Rafli Fauzan Rauf
+
+🎓 A Software Engineering student at **Telkom University**  
+📱 Passionate about crafting delightful mobile experiences using **React Native** & **Flutter**  
+🚀 Driven by curiosity, I constantly explore new tools, trends, and technologies  
+🌱 Currently learning and building clean, scalable mobile interfaces with love for frontend  
+✨ Striving to turn ideas into impactful and elegant apps
 
 ### 📱 Mobile Development
 
