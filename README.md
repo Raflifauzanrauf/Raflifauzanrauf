@@ -1,4 +1,4 @@
-# 🧠 Rafli Fauzan Rauf
+🧠 Rafli Fauzan Rauf
 **Mobile Developer Enthusiast**
 
 
