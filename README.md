@@ -1,5 +1,5 @@
 
-## 👋 Hello World! I'm Rafli Fauzan Rauf
+#👋 Hello World! I'm Rafli Fauzan Rauf
 
 🎓 A Software Engineering student at **Telkom University**  
 📱 Passionate about crafting delightful mobile experiences using **React Native** & **Flutter**  
