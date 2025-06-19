@@ -1,12 +1,11 @@
-🧠 Rafli Fauzan Rauf
+🧠 **Rafli Fauzan Rauf**  
 **Mobile Developer Enthusiast**
 
-
-• 🎓 Software Engineering student at **Telkom University**  
+• 🎓 Software Engineering student at *Telkom University*  
 • 📱 Passionate about crafting delightful mobile experiences using **React Native** & **Flutter**  
-• 🚀 Driven by curiosity — I constantly explore new tools, trends, and technologies  
-• 🌱 Currently learning to build clean, scalable mobile interfaces with a love for frontend  
-• ✨ Striving to turn ideas into elegant and impactful applications  
+• 🚀 Always exploring new tools, frameworks, and technologies  
+• 🌱 Currently learning clean code architecture and UI scalability  
+• ✨ Turning ideas into beautiful and impactful mobile apps  
 
 ### 📱 Mobile Development
 
